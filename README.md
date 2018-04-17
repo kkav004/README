@@ -3,6 +3,7 @@ This is my personal “manual” describing how I operate optimally, conditions 
 
 The document is not intended to be final. To get things going, I blatantly copied some points that apply to me from other tech leaders’ READMEs. I intend to regularly review it and put more of my own spin on it over time.
 
+
 ## My role as a tech lead
   * I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career and enjoy your work.
   
@@ -58,6 +59,24 @@ These are some interesting articles I've read about one-on-ones:
 
 If you have thoughts on either, that might make a good topic to include in a one-on-one.
 
+## My quirks
+_Quirk: Noun (plural quirks), an unusual habit or type of behaviour, or something that is strange and unexpected._
+
+  * I am big on using openness and vulnerability when building trust and empathy within the team. I encourage all my team members to watch Brené Brown's TEDxHouston talk (https://www.ted.com/talks/brene_brown_on_vulnerability). This is my favourite TED talk of all time. That's why I'm including this section into my README.
+
+  * I am also a big believer in growth mindset popularised by Carol Dweck (https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322). I value progress over perfection and attitude over experience.
+
+  * I am an introvert. I prefer listening over talking. I can be quiet when surrounded by many people and can easily be perceived as "boring" at social events unless I make conscious effort to say something relevant and non-trivial. Even then, it's often too late and the conversation has moved on to a different topic :) Which brings my next quirk.
+
+  * Sometimes I tend to take time thinking before saying something which results in uncomfortably long pauses in our conversations. Same with writing. I feel like it's taking me way too much time to write this README :)
+
+  * I think of myself as humble but sometimes I come across as pretentious. I still have not figured out why… Please let me know if you've got an idea why.
+
+  * I can get easily addicted and obsessed with computer games. I can't play for an hour "to relax" and forget about a game. As a result, I avoid playing them altogether.
+I can get easily obsessed with work which negatively affects my work-life balance and health. I often "forget" to go to sleep on time. This results in loss of productivity during the next day.  
+
+  * I am originally from Belarus and believe some of my quirks are to do with the cultural differences. For example, politeness does not come to me naturally. It takes a mental effort and feels a little bit awkward to express gratitude and appreciation on regular basis.
+  
 ## Sources
 Finally, a big thank you to all the wonderful managers who publicly shared their own readmes which I used when composing this README. You are awesome!
 
