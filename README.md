@@ -40,7 +40,7 @@ Notice how there is nothing about tech skills and abilities in this section. Thi
   
 ## Schedule
 
-I am usually in the office between 10 am and 2 pm. I am often in the office earlier or later, but with some exceptions, these tend to be the hours you can count on finding me. I usually work from home after dinner.
+I am usually in the office between 9 am and 4 pm. I am often in the office earlier or later, but with some exceptions, these tend to be the hours you can count on finding me. I usually work from home after dinner.
 
 As for your schedule: do what works for you, but use good judgment. Our customers expect 24/7 support, so if you're a night owl and you choose to work from 9 pm to 5 am, that might work with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
 
