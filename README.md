@@ -4,14 +4,13 @@ This is my personal “manual” describing how I operate optimally, conditions 
 The document is not intended to be final. To get things going, I blatantly copied some points that apply to me from other tech leaders’ READMEs. I intend to regularly review it and put more of my own spin on it over time.
 
 
-## My role as a tech lead
+## My role as a techology leader
   * I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career and enjoy your work.
   
   * I am here to make sure our team is successful and pointed in the right direction.
   
   * I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us.
   
-  * I write some code too 😃
 
 ## My expectations of teammates who report to me
   * Communicate effectively and frequently. If you don’t understand something, or how it fits into the larger picture, ask! Be prepared to provide insight and clarity to decisions you make.
@@ -32,7 +31,7 @@ Notice how there is nothing about tech skills and abilities in this section. Thi
   * Here’s how I rank communication methods in terms of urgency via medium: ```In-person (right now) -> Call -> Text -> Slack -> Email (later is fine)``` If you have an alternate ranking method it is up to you to let me know, otherwise I will apply my ranking to interactions with you and thus expect that when I come to you in-person or via a call, you will understand there is an urgency attached to it.
 
 ## Process and Software Development
-  * I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and minimize key person risk)
+  * I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code over and above new features, pairing on work to improve our code quality and minimize key person risk)
 
   * I value learning and know that training up on a tech stack may not always be the fastest route to production.
 
@@ -49,7 +48,7 @@ If you want to work from home sometimes, do so. If you're not productive when yo
 ## One-on-ones
 I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
 
-One-on-ones are your time. I will probably have some things to discuss with you, but these are your opportunities to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on, that is fine with me, but those are generally better-suited to a quick chat while I'm at my desk, an @ on a Github issue or a Slack message.
+One-on-ones are your time. I will probably have some things to discuss with you, but these are your opportunities to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on, that is fine with me, but those are generally better-suited to a quick chat while I'm at my desk or a Slack message.
 
 I encourage you to write down some things you want to chat about ahead of time because they can be hard to think of or bring up at the moment. If you struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
@@ -60,7 +59,6 @@ These are some interesting articles I've read about one-on-ones:
 If you have thoughts on either, that might make a good topic to include in a one-on-one.
 
 ## My quirks
-_Quirk: Noun (plural quirks), an unusual habit or type of behavior, or something that is strange and unexpected._
 
   * I am big on using openness and vulnerability when building trust and empathy within the team. I encourage all my team members to watch Brené Brown's TEDxHouston talk (https://www.ted.com/talks/brene_brown_on_vulnerability). This is my favourite TED talk of all time. That's why I'm including this section into my README.
 
@@ -70,13 +68,14 @@ _Quirk: Noun (plural quirks), an unusual habit or type of behavior, or something
 
   * Sometimes I tend to take time thinking before saying something which results in uncomfortably long pauses in our conversations. Same with writing. I feel like it's taking me way too much time to write this README :)
 
-  * I think of myself as humble but sometimes I come across as pretentious. I still have not figured out why… Please let me know if you've got an idea why.
+  * I think of myself as humble but sometimes I come across as pretentious. Please let me know if you notice this. 
 
-  * I can get easily addicted and obsessed with computer games. I can't play for an hour "to relax" and forget about a game. As a result, I avoid playing them altogether.
-I can get easily obsessed with work which negatively affects my work-life balance and health. I often "forget" to go to sleep on time. This results in loss of productivity during the next day.  
+  * I can get easily addicted and obsessed with computer games. I can't play just for an hour to "relax" and forget about a game. As a result, I avoid playing them altogether.
+  
+  * I can get easily obsessed with work which negatively affects my work-life balance and health. I often "forget" to go to sleep on time. This results in loss of productivity during the next day.  
     
 ## Sources
-Finally, a big thank you to all the wonderful managers who publicly shared their own readmes which I used when composing this README. You are awesome!
+Finally, a big thank you to all the wonderful leaders who publicly shared their own readmes which I used when composing mine. You are awesome!
 
   * [The Indispensable Document for the Modern Manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/)
   * [Molly White at HubSpot](https://github.com/molly/manager-README)
