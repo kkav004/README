@@ -75,11 +75,6 @@ If you have thoughts on either, that might make a good topic to include in a one
 
 * I think of myself as humble, but sometimes I come across as pretentious. Please let me know if you notice this.
 
-* I can get easily addicted and obsessed with computer games. I can't play just for an hour to "relax" and forget about a game. As a result, I avoid playing them altogether.
-
-* I can get easily obsessed with work which negatively affects my work-life balance and health. I often "forget" to go to sleep on time. This results in loss of productivity during the next day.
-
-* I can get easily addicted and obsessed with computer games. I can't play just for an hour to "relax" and forget about a game. As a result, I avoid playing them altogether.
 
 ## Sources
 Finally, a big thank you to the wonderful leaders who publicly shared their own readmes which I used when composing this one. They have been a huge inspiration to me.
